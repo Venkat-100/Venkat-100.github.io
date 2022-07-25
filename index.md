@@ -1,10 +1,14 @@
-<header>
-  <h1> GitHub Page of Venkat </h1>
+
+  GitHub Page of Venkat 
+  
+  Built by Venkataramani P - A dedicated Software professional
+  
+  <header>
   <h2> <b>Welcome  and  Rab Rakha </b></h2>
 
   <h3> <b>Scripting History through Scripts  !!!</b></h3>
   
-Built by Venkataramani P - A dedicated Software professional 
+ 
 
 This site is to learn and Publish Python code - This site will put up python code on Colab from Google, a great place to learn and share 
 
