@@ -1,22 +1,17 @@
 
 ## GitHub Page of Venkat 
-## Rab rakha Welcome
+
 
   <h3> Scripting History through Scripts  !!!</h3>
- 
-  
   <h2> Built by Venkataramani P - A dedicated Software professional</h2>
   
-
-  <h2> <b>Welcome  and  Rab Rakha </b></h2>
- 
-<br>
+   <h2> <b>Welcome  and  Rab Rakha </b></h2>
  
 This site is to learn and Publish Python code - This site will put up python code on Colab from Google, a great place to learn and share 
 
 <h3>
   
-Learn the Basics of Python with a few pieces of code churned out by "ME the Great " 
+Code churned out by "ME the Great " 
   
 </h3>
   
