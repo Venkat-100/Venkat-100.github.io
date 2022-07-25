@@ -8,10 +8,10 @@
 
   <h3> <b>Scripting History through Scripts  !!!</b></h3>
   
+ <br>
  
-
 This site is to learn and Publish Python code - This site will put up python code on Colab from Google, a great place to learn and share 
-
+<br>
 <h3>
   
 Learn the Basics of Python with a few pieces of code churned out by "ME the Great " 
