@@ -12,7 +12,7 @@ This site is to learn and Publish Python code - This site will put up <b>python 
 <h3> <p style="color:black;">
   Code below churned out by "ME the Great " </p>
 </h3>
- <h4><b><p style="color:blue;"> 
+ <h4><p style="color:blue;"> 
   <a href = "https://github.com/Venkat-100/Venkat-100.github.io/blob/main/Summertrg_Venkat.ipynb"> <b>My first Colab file Link </b></a> </p>
 
   
