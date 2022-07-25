@@ -1,6 +1,6 @@
 
   ## GitHub Page of Venkat 
-  ## Scripting History through Scripts  !!!
+  # Scripting History through Scripts  !!!
   
   Built by Venkataramani P - A dedicated Software professional
   
