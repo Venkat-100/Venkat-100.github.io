@@ -9,10 +9,8 @@
   
 
   <h2> <b>Welcome  and  Rab Rakha </b></h2>
-
  
-  
- <br>
+<br>
  
 This site is to learn and Publish Python code - This site will put up python code on Colab from Google, a great place to learn and share 
 
